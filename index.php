@@ -18,7 +18,7 @@
                                         <h1>Create Stunning Weddings Receptions</h1>
                                         <p>Sed ut persiciatis unde omnis iste natus error sit voluptate maccus antium doloremque laudantium totam rem aperiam eaque ipsa quae ab illo inventore.</p>
                                         <div class="hero-btn">
-                                            <a href="register.html" class="btn style1">Register Now</a>
+                                            <a href="register.php" class="btn style1">Register Now</a>
                                             <a class="play-video" data-fslightbox href="https://www.youtube.com/watch?v=Yxw2MH1ODW0">
                                                 <span class="video-icon">
                                                     <i class="ri-play-fill"></i>
@@ -28,16 +28,16 @@
                                         </div>
                                         <div class="feedback-wrap" >
                                             <div class="feedback-client-img">
-                                                <a href="contact.html">
+                                                <a href="contact.php">
                                                     <img src="assets/img/team/author-1.jpg" alt="Image">
                                                 </a>
-                                                <a href="contact.html">
+                                                <a href="contact.php">
                                                     <img src="assets/img/team/author-2.jpg" alt="Image">
                                                 </a>
-                                                <a href="contact.html">
+                                                <a href="contact.php">
                                                     <img src="assets/img/team/author-3.jpg" alt="Image">
                                                 </a>
-                                                <a href="contact.html">
+                                                <a href="contact.php">
                                                     <img src="assets/img/team/author-4.jpg" alt="Image">
                                                 </a>
                                             </div>
@@ -73,7 +73,7 @@
                                         <h1>Make Your Every Moment Very Special</h1>
                                         <p>Sed ut persiciatis unde omnis iste natus error sit voluptate maccus antium doloremque laudantium totam rem aperiam eaque ipsa quae ab illo inventore.</p>
                                         <div class="hero-btn">
-                                            <a href="register.html" class="btn style1">Register Now</a>
+                                            <a href="register.php" class="btn style1">Register Now</a>
                                             <a class="play-video" data-fslightbox href="https://www.youtube.com/watch?v=Yxw2MH1ODW0">
                                                 <span class="video-icon">
                                                     <i class="ri-play-fill"></i>
@@ -83,16 +83,16 @@
                                         </div>
                                         <div class="feedback-wrap" >
                                             <div class="feedback-client-img">
-                                                <a href="contact.html">
+                                                <a href="contact.php">
                                                     <img src="assets/img/team/author-2.jpg" alt="Image">
                                                 </a>
-                                                <a href="contact.html">
+                                                <a href="contact.php">
                                                     <img src="assets/img/team/author-1.jpg" alt="Image">
                                                 </a>
-                                                <a href="contact.html">
+                                                <a href="contact.php">
                                                     <img src="assets/img/team/author-4.jpg" alt="Image">
                                                 </a>
-                                                <a href="contact.html">
+                                                <a href="contact.php">
                                                     <img src="assets/img/team/author-3.jpg" alt="Image">
                                                 </a>
                                             </div>
@@ -128,7 +128,7 @@
                                         <h1>Best Digital Wedding Planner Is Here</h1>
                                         <p>Sed ut persiciatis unde omnis iste natus error sit voluptate maccus antium doloremque laudantium totam rem aperiam eaque ipsa quae ab illo inventore.</p>
                                         <div class="hero-btn">
-                                            <a href="register.html" class="btn style1">Register Now</a>
+                                            <a href="register.php" class="btn style1">Register Now</a>
                                             <a class="play-video" data-fslightbox href="https://www.youtube.com/watch?v=Yxw2MH1ODW0">
                                                 <span class="video-icon">
                                                     <i class="ri-play-fill"></i>
@@ -138,16 +138,16 @@
                                         </div>
                                         <div class="feedback-wrap" >
                                             <div class="feedback-client-img">
-                                                <a href="contact.html">
+                                                <a href="contact.php">
                                                     <img src="assets/img/team/author-3.jpg" alt="Image">
                                                 </a>
-                                                <a href="contact.html">
+                                                <a href="contact.php">
                                                     <img src="assets/img/team/author-1.jpg" alt="Image">
                                                 </a>
-                                                <a href="contact.html">
+                                                <a href="contact.php">
                                                     <img src="assets/img/team/author-2.jpg" alt="Image">
                                                 </a>
-                                                <a href="contact.html">
+                                                <a href="contact.php">
                                                     <img src="assets/img/team/author-4.jpg" alt="Image">
                                                 </a>
                                             </div>
@@ -264,7 +264,7 @@
                                         <p>Happiest Couples</p>
                                     </div>
                                 </div>
-                                <a href="about.html" class="btn style1">Read More</a>
+                                <a href="about.php" class="btn style1">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -284,45 +284,45 @@
                         <div class="service-card style1" data-aos="fade-right" data-aos-duration="1200" data-aos-delay="200">
                             <img src="assets/img/service/service-1.jpg" alt="Image">
                             <div class="service-info">
-                                <h3><a href="service-details.html">Wedding Reception</a></h3>
+                                <h3><a href="service-details.php">Wedding Reception</a></h3>
                                 <p>Lorem ipsum dolor amet consec tetur dip iscing elit sed est amet.</p>
-                                <a href="service-details.html" class="link style1">Read More</a>
+                                <a href="service-details.php" class="link style1">Read More</a>
                                 <i class="flaticon-wedding-bells"></i>
                             </div>
                         </div>
                         <div class="service-card style1" data-aos="fade-right" data-aos-duration="1200" data-aos-delay="400">
                             <img src="assets/img/service/service-2.jpg" alt="Image">
                             <div class="service-info">
-                                <h3><a href="service-details.html">Photograpy Event</a></h3>
+                                <h3><a href="service-details.php">Photograpy Event</a></h3>
                                 <p>Lorem ipsum dolor amet consec tetur dip iscing elit sed est amet.</p>
-                                <a href="service-details.html" class="link style1">Read More</a>
+                                <a href="service-details.php" class="link style1">Read More</a>
                                 <i class="flaticon-wedding-invitation-1"></i>
                             </div>
                         </div>
                         <div class="service-card style1" data-aos="fade-right" data-aos-duration="1200" data-aos-delay="600">
                             <img src="assets/img/service/service-3.jpg" alt="Image">
                             <div class="service-info">
-                                <h3><a href="service-details.html">Bridal Dressup</a></h3>
+                                <h3><a href="service-details.php">Bridal Dressup</a></h3>
                                 <p>Lorem ipsum dolor amet consec tetur dip iscing elit sed est amet.</p>
-                                <a href="service-details.html" class="link style1">Read More</a>
+                                <a href="service-details.php" class="link style1">Read More</a>
                                 <i class="flaticon-bride"></i>
                             </div>
                         </div>
                         <div class="service-card style1" data-aos="fade-right" data-aos-duration="1200" data-aos-delay="800">
                             <img src="assets/img/service/service-7.jpg" alt="Image">
                             <div class="service-info">
-                                <h3><a href="service-details.html">Anniversary Program</a></h3>
+                                <h3><a href="service-details.php">Anniversary Program</a></h3>
                                 <p>Lorem ipsum dolor amet consec tetur dip iscing elit sed est amet.</p>
-                                <a href="service-details.html" class="link style1">Read More</a>
+                                <a href="service-details.php" class="link style1">Read More</a>
                                 <i class="flaticon-wedding-invitation"></i>
                             </div>
                         </div>
                         <div class="service-card style1" data-aos="fade-right" data-aos-duration="1200" data-aos-delay="1000">
                             <img src="assets/img/service/service-8.jpg" alt="Image">
                             <div class="service-info">
-                                <h3><a href="service-details.html">Pre-wedding Reception</a></h3>
+                                <h3><a href="service-details.php">Pre-wedding Reception</a></h3>
                                 <p>Lorem ipsum dolor amet consec tetur dip iscing elit sed est amet.</p>
-                                <a href="service-details.html" class="link style1">Read More</a>
+                                <a href="service-details.php" class="link style1">Read More</a>
                                 <i class="flaticon-double-bed"></i>
                             </div>
                         </div>
@@ -361,7 +361,7 @@
                                 <div class="form-group">
                                     <button type="submit" class="btn style1 w-100 d-block">Register Free</button>
                                 </div>
-                                <p>By clicking on Register Free, you agree to <a class="link style2" href="terms-of-service.html">Terms &amp; Conditions</a> and <a class="link style2" href="privacy-policy.html">Privacy Policy</a></p>
+                                <p>By clicking on Register Free, you agree to <a class="link style2" href="terms-of-service.php">Terms &amp; Conditions</a> and <a class="link style2" href="privacy-policy.php">Privacy Policy</a></p>
                             </form>
                         </div>
                     </div>
@@ -384,17 +384,17 @@
                                 <div class="product-img">
                                     <img src="assets/img/product/product-1.png" alt="Image">
                                     <ul class="product-option list-style">
-                                        <li><a href="wishlist.html"><i class="ri-heart-line"></i></a></li>
-                                        <li><a href="cart.html"><i class="ri-shopping-cart-line"></i></a></li>
-                                        <li><a href="shop-details.html"><i class="ri-eye-line"></i></a></li>
+                                        <li><a href="wishlist.php"><i class="ri-heart-line"></i></a></li>
+                                        <li><a href="cart.php"><i class="ri-shopping-cart-line"></i></a></li>
+                                        <li><a href="shop-details.php"><i class="ri-eye-line"></i></a></li>
                                     </ul>
                                 </div>
                                 <div class="product-info">
                                     <p class="product-price">$250.00 <span class="discount"> $330.00</span></p>
-                                    <h3><a href="shop-details.html">Blue Wedding Dress</a></h3>
+                                    <h3><a href="shop-details.php">Blue Wedding Dress</a></h3>
                                         <p>Consec adipicing elit debit ipsam ...</p>
                                     <div class="product-purchase">
-                                        <a href="cart.html" class="btn style1">Add To Cart</a>
+                                        <a href="cart.php" class="btn style1">Add To Cart</a>
                                         <span class="rating"><i class="ri-star-fill"></i> 3k+ rating</span>
                                     </div>
                                 </div>
@@ -405,17 +405,17 @@
                                 <div class="product-img">
                                     <img src="assets/img/product/product-2.png" alt="Image">
                                     <ul class="product-option list-style">
-                                        <li><a href="wishlist.html"><i class="ri-heart-line"></i></a></li>
-                                        <li><a href="cart.html"><i class="ri-shopping-cart-line"></i></a></li>
-                                        <li><a href="shop-details.html"><i class="ri-eye-line"></i></a></li>
+                                        <li><a href="wishlist.php"><i class="ri-heart-line"></i></a></li>
+                                        <li><a href="cart.php"><i class="ri-shopping-cart-line"></i></a></li>
+                                        <li><a href="shop-details.php"><i class="ri-eye-line"></i></a></li>
                                     </ul>
                                 </div>
                                 <div class="product-info">
                                     <p class="product-price">$170.00 <span class="discount"> $210.00</span></p>
-                                    <h3><a href="shop-details.html">Flower Decoration</a></h3>
+                                    <h3><a href="shop-details.php">Flower Decoration</a></h3>
                                         <p>Consec adipicing elit debit ipsam ...</p>
                                     <div class="product-purchase">
-                                        <a href="cart.html" class="btn style1">Add To Cart</a>
+                                        <a href="cart.php" class="btn style1">Add To Cart</a>
                                         <span class="rating"><i class="ri-star-fill"></i> 4k+ rating</span>
                                     </div>
                                 </div>
@@ -426,17 +426,17 @@
                                 <div class="product-img">
                                     <img src="assets/img/product/product-3.png" alt="Image">
                                     <ul class="product-option list-style">
-                                        <li><a href="wishlist.html"><i class="ri-heart-line"></i></a></li>
-                                        <li><a href="cart.html"><i class="ri-shopping-cart-line"></i></a></li>
-                                        <li><a href="shop-details.html"><i class="ri-eye-line"></i></a></li>
+                                        <li><a href="wishlist.php"><i class="ri-heart-line"></i></a></li>
+                                        <li><a href="cart.php"><i class="ri-shopping-cart-line"></i></a></li>
+                                        <li><a href="shop-details.php"><i class="ri-eye-line"></i></a></li>
                                     </ul>
                                 </div>
                                 <div class="product-info">
                                     <p class="product-price">$310.00 <span class="discount"> $330.00</span></p>
-                                    <h3><a href="shop-details.html">White Bridal Dress</a></h3>
+                                    <h3><a href="shop-details.php">White Bridal Dress</a></h3>
                                         <p>Consec adipicing elit debit ipsam ...</p>
                                     <div class="product-purchase">
-                                        <a href="cart.html" class="btn style1">Add To Cart</a>
+                                        <a href="cart.php" class="btn style1">Add To Cart</a>
                                         <span class="rating"><i class="ri-star-fill"></i> 1.4k+ rating</span>
                                     </div>
                                 </div>
@@ -685,7 +685,7 @@
                                     <li class="unchecked">Portal Highlight<i class="ri-close-fill"></i></li>
                                     <li class="unchecked">Soothing Facial Rinse<i class="ri-close-fill"></i></li>
                                 </ul>
-                                <a href="login.html" class="btn style1">Booking Now</a>
+                                <a href="login.php" class="btn style1">Booking Now</a>
                             </div>
                         </div>
                         <div class="col-xl-4 col-lg-6 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400">
@@ -701,7 +701,7 @@
                                     <li class="checked">Portal Highlight<i class="ri-check-line"></i></li>
                                     <li class="unchecked">Soothing Facial Rinse<i class="ri-close-fill"></i></li>
                                 </ul>
-                                <a href="login.html" class="btn style1">Booking Now</a>
+                                <a href="login.php" class="btn style1">Booking Now</a>
                             </div>
                         </div>
                         <div class="col-xl-4 col-lg-6 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="800">
@@ -717,7 +717,7 @@
                                     <li class="checked">Portal Highlight<i class="ri-check-line"></i></li>
                                     <li class="checked">Soothing Facial Rinse<i class="ri-check-line"></i></li>
                                 </ul>
-                                <a href="login.html" class="btn style1">Booking Now</a>
+                                <a href="login.php" class="btn style1">Booking Now</a>
                             </div>
                         </div>
                     </div>
@@ -986,13 +986,13 @@
                                 <img src="assets/img/blog/blog-1.jpg" alt="Image">
                             </div>
                             <div class="blog-info">
-                                <a href="posts-by-date.html" class="blog-date"><span>27</span> Jul</a>
+                                <a href="posts-by-date.php" class="blog-date"><span>27</span> Jul</a>
                                 <ul class="blog-metainfo  list-style">
-                                    <li><i class="ri-user-3-line"></i><a href="posts-by-author.html">By Admin</a></li>
+                                    <li><i class="ri-user-3-line"></i><a href="posts-by-author.php">By Admin</a></li>
                                     <li><i class="ri-wechat-line"></i>No Comment</li>
                                 </ul>
-                                <h3><a href="blog-details-right-sidebar.html">How You Can Create Special Design Board</a></h3>
-                                <a href="blog-details-right-sidebar.html" class="link style1">Read More</a>
+                                <h3><a href="blog-details-right-sidebar.php">How You Can Create Special Design Board</a></h3>
+                                <a href="blog-details-right-sidebar.php" class="link style1">Read More</a>
                             </div>
                         </div>
                         <div class="blog-card style1" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400">
@@ -1000,13 +1000,13 @@
                                 <img src="assets/img/blog/blog-2.jpg" alt="Image">
                             </div>
                             <div class="blog-info">
-                                <a href="posts-by-date.html" class="blog-date"><span>15</span>Jul</a>
+                                <a href="posts-by-date.php" class="blog-date"><span>15</span>Jul</a>
                                 <ul class="blog-metainfo  list-style">
-                                    <li><i class="ri-user-3-line"></i><a href="posts-by-author.html">By Admin</a></li>
+                                    <li><i class="ri-user-3-line"></i><a href="posts-by-author.php">By Admin</a></li>
                                     <li><i class="ri-wechat-line"></i>1 Comment</li>
                                 </ul>
-                                <h3><a href="blog-details-right-sidebar.html">First Aniversary Gift Idea For New Couples</a></h3>
-                                <a href="blog-details-right-sidebar.html" class="link style1">Read More</a>
+                                <h3><a href="blog-details-right-sidebar.php">First Aniversary Gift Idea For New Couples</a></h3>
+                                <a href="blog-details-right-sidebar.php" class="link style1">Read More</a>
                             </div>
                         </div>
                         <div class="blog-card style1" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="600">
@@ -1014,13 +1014,13 @@
                                 <img src="assets/img/blog/blog-3.jpg" alt="Image">
                             </div>
                             <div class="blog-info">
-                                <a href="posts-by-date.html" class="blog-date"><span>25</span> Jun</a>
+                                <a href="posts-by-date.php" class="blog-date"><span>25</span> Jun</a>
                                 <ul class="blog-metainfo  list-style">
-                                    <li><i class="ri-user-3-line"></i><a href="posts-by-author.html">By Admin</a></li>
+                                    <li><i class="ri-user-3-line"></i><a href="posts-by-author.php">By Admin</a></li>
                                     <li><i class="ri-wechat-line"></i>No Comment</li>
                                 </ul>
-                                <h3><a href="blog-details-right-sidebar.html">Best Thaughtful Gift Idea For Your Wife</a></h3>
-                                <a href="blog-details-right-sidebar.html" class="link style1">Read More</a>
+                                <h3><a href="blog-details-right-sidebar.php">Best Thaughtful Gift Idea For Your Wife</a></h3>
+                                <a href="blog-details-right-sidebar.php" class="link style1">Read More</a>
                             </div>
                         </div>
                         <div class="blog-card style1" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="800">
@@ -1028,13 +1028,13 @@
                                 <img src="assets/img/blog/blog-4.jpg" alt="Image">
                             </div>
                             <div class="blog-info">
-                                <a href="posts-by-date.html" class="blog-date"><span>21</span>Jun</a>
+                                <a href="posts-by-date.php" class="blog-date"><span>21</span>Jun</a>
                                 <ul class="blog-metainfo  list-style">
-                                    <li><i class="ri-user-3-line"></i><a href="posts-by-author.html">By Admin</a></li>
+                                    <li><i class="ri-user-3-line"></i><a href="posts-by-author.php">By Admin</a></li>
                                     <li><i class="ri-wechat-line"></i>2 Comments</li>
                                 </ul>
-                                <h3><a href="blog-details-right-sidebar.html">Trending Jewelry For Wedding Anniversary</a></h3>
-                                <a href="blog-details-right-sidebar.html" class="link style1">Read More</a>
+                                <h3><a href="blog-details-right-sidebar.php">Trending Jewelry For Wedding Anniversary</a></h3>
+                                <a href="blog-details-right-sidebar.php" class="link style1">Read More</a>
                             </div>
                         </div>
                         <div class="blog-card style1" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="1000">
@@ -1042,13 +1042,13 @@
                                 <img src="assets/img/blog/blog-5.jpg" alt="Image">
                             </div>
                             <div class="blog-info">
-                                <a href="posts-by-date.html" class="blog-date"><span>12</span>Jun</a>
+                                <a href="posts-by-date.php" class="blog-date"><span>12</span>Jun</a>
                                 <ul class="blog-metainfo  list-style">
-                                    <li><i class="ri-user-3-line"></i><a href="posts-by-author.html">By Admin</a></li>
+                                    <li><i class="ri-user-3-line"></i><a href="posts-by-author.php">By Admin</a></li>
                                     <li><i class="ri-wechat-line"></i>1 Comment</li>
                                 </ul>
-                                <h3><a href="blog-details-right-sidebar.html">Where You Can Find Best Services For Your Wedding</a></h3>
-                                <a href="blog-details-right-sidebar.html" class="link style1">Read More</a>
+                                <h3><a href="blog-details-right-sidebar.php">Where You Can Find Best Services For Your Wedding</a></h3>
+                                <a href="blog-details-right-sidebar.php" class="link style1">Read More</a>
                             </div>
                         </div>
                     </div>

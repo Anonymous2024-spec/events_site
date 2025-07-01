@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html lang="zxx">
-    
-<!-- Mirrored from templates.hibotheme.com/wazo/default/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 11 Jun 2025 12:53:45 GMT -->
+<html lang="zxx"> 
+<!-- Mirrored from templates.hibotheme.com/wazo/default/index.php
+  by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 11 Jun 2025 12:53:45 GMT -->
 <head>
         <!-- Required meta tags -->
         <meta charset="utf-8">
@@ -124,7 +124,8 @@
                 <div class="container">
                     <div class="header-bottom">
                         <nav class="navbar navbar-expand-md navbar-light">
-                           <a class="navbar-brand" href="index.html">
+                           <a class="navbar-brand" href="index.php
+                           ">
                                 <img class="logo-light" src="assets/img/logo.png" alt="logo">
                                 <img class="logo-dark" src="assets/img/logo-white.png" alt="logo">
                             </a>
@@ -134,64 +135,51 @@
                                 </div>
                                 <ul class="navbar-nav ms-auto">
                                     <li class="nav-item has-child">
-                                        <a href="#" class="nav-link active">
+                                        <a href="index.php" class="nav-link active">
                                             Home
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="about.html" class="nav-link">
+                                        <a href="about.php
+                                        " class="nav-link">
                                             About Us
                                         </a>
                                     </li>
                                     <li class="nav-item has-child">
                                         <a href="#" class="nav-link">
-                                            Services
+                                            Our Services
                                             <i class="ri-arrow-down-s-line"></i>
                                         </a>
                                         <ul class="dropdown-menu">
                                             <li class="nav-item">
-                                                <a href="service-two.html" class="nav-link">Services</a>
+                                                <a href="services.php" class="nav-link">Services</a>
                                             </li>
                                             <li class="nav-item">
-                                                <a href="service-details.html" class="nav-link">Single Service</a>
+                                                <a href="service-details.php" class="nav-link">Single Service</a>
                                             </li>
                                         </ul>
                                     </li>
                                     <li class="nav-item has-child">
                                         <a href="#" class="nav-link">
-                                            Blog
+                                            Our Blogs
                                             <i class="ri-arrow-down-s-line"></i>
                                         </a>
                                         <ul class="dropdown-menu">
                                             <li class="nav-item">
-                                                <a href="#" class="nav-link">
-                                                    Blog Layout
-                                                    <i class="ri-arrow-right-s-line"></i>
-                                                </a>
-                                                <ul class="dropdown-menu">
-                                                    <li class="nav-item">
-                                                        <a href="blog-no-sidebar.html" class="nav-link">Blog Grid</a>
-                                                    </li>
-                                                </ul>
+                                                <a href="blogs.php" class="nav-link">Blogs</a>
                                             </li>
                                             <li class="nav-item">
-                                                <a href="#" class="nav-link">
-                                                    Single Blog
-                                                    <i class="ri-arrow-right-s-line"></i>
-                                                </a>
-                                                <ul class="dropdown-menu">
-                                                    <li class="nav-item">
-                                                        <a href="blog-details-no-sidebar.html" class="nav-link">Blog Details No Sidebar</a>
-                                                    </li>
-                                                </ul>
+                                                <a href="blog-details.php" class="nav-link">Single Blog</a>
                                             </li>
                                         </ul>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="contact.html" class="nav-link">Contact Us</a>
+                                        <a href="contact.php
+                                        " class="nav-link">Contact Us</a>
                                     </li>
                                     <li class="nav-item d-lg-none">
-                                        <a href="appointment.html" class="nav-link btn style1">Book Appointment</a>
+                                        <a href="appointment.php
+                                        " class="nav-link btn style1">Book Appointment</a>
                                     </li>
                                 </ul>
                                 <div class="other-options md-none">
@@ -199,10 +187,12 @@
                                         <button class="searchbtn"><i class="ri-search-line"></i></button>
                                     </div>
                                     <div class="option-item">
-                                        <a class="shopcart" href="cart.html"><i class="flaticon-shopping-bag"></i> <span>10</span></a>
+                                        <a class="shopcart" href="cart.php
+                                        "><i class="flaticon-shopping-bag"></i> <span>10</span></a>
                                     </div>
                                     <div class="option-item">
-                                        <a href="appointment.html" class="btn style1">Book Now</a>
+                                        <a href="appointment.php
+                                        " class="btn style1">Book Now</a>
                                     </div>
                                 </div>
                             </div>
@@ -213,7 +203,8 @@
                         </div>
                         <div class="mobile-bar-wrap">
                             <button class="searchbtn d-lg-none"><i class="ri-search-line"></i></button>
-                            <a class="shopcart d-lg-none" href="cart.html"><i class="flaticon-shopping-bag"></i> <span>10</span></a>
+                            <a class="shopcart d-lg-none" href="cart.php
+                            "><i class="flaticon-shopping-bag"></i> <span>10</span></a>
                             <div class="mobile-menu d-lg-none">
                                 <a href="javascript:void(0)"><i class="ri-menu-line"></i></a>
                             </div>
