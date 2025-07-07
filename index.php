@@ -1,6 +1,6 @@
-        <?php 
+        <?php
         include 'includes/header.php'
-        ?>
+?>
             <!-- Hero Section Start -->
             <section class="hero-wrap style1">
                 <img src="assets/img/hero/hero-shape-3.png" alt="Image" class="hero-shape-three bounce">
@@ -14,35 +14,35 @@
                                     <div class="hero-content">
                                         <img src="assets/img/hero/hero-shape-6.png" alt="Image" class="hero-shape-six" data-speed="0.10" data-revert="true">
                                         <img src="assets/img/hero/hero-shape-7.png" alt="Image" class="hero-shape-seven" data-speed="0.10" data-revert="true">
-                                        <span>Welcome To Wazo</span>
-                                        <h1>Create Stunning Weddings Receptions</h1>
-                                        <p>Sed ut persiciatis unde omnis iste natus error sit voluptate maccus antium doloremque laudantium totam rem aperiam eaque ipsa quae ab illo inventore.</p>
+                                        <span>Welcome to Carol Events Mbarara</span>
+                                        <h2>Memorable Functions, Beautifully Handled</h2>
+                                        <p>From ushering services to fresh juice bars and bulk messaging, we bring energy and elegance to your events anytime, anywhere in Mbarara and beyond.</p>
                                         <div class="hero-btn">
-                                            <a href="register.php" class="btn style1">Register Now</a>
-                                            <a class="play-video" data-fslightbox href="https://www.youtube.com/watch?v=Yxw2MH1ODW0">
+                                            <a href="#" class="btn style1">Register Now</a>
+                                                <a class="play-video" href="https://www.tiktok.com/@carol.events.mbra/video/7509221728392875320" target="_blank" rel="noopener noreferrer">
                                                 <span class="video-icon">
                                                     <i class="ri-play-fill"></i>
                                                 </span>
-                                               <span>Watch Video</span>
+                                                <span>Watch Video</span>
                                             </a>
                                         </div>
                                         <div class="feedback-wrap" >
                                             <div class="feedback-client-img">
                                                 <a href="contact.php">
-                                                    <img src="assets/img/team/author-1.jpg" alt="Image">
+                                                    <img src="assets/img/team/african-1.jpeg" alt="Image">
                                                 </a>
                                                 <a href="contact.php">
-                                                    <img src="assets/img/team/author-2.jpg" alt="Image">
+                                                    <img src="assets/img/team/african-1.jpeg" alt="Image">
                                                 </a>
                                                 <a href="contact.php">
-                                                    <img src="assets/img/team/author-3.jpg" alt="Image">
+                                                    <img src="assets/img/team/african-1.jpeg" alt="Image">
                                                 </a>
                                                 <a href="contact.php">
-                                                    <img src="assets/img/team/author-4.jpg" alt="Image">
+                                                    <img src="assets/img/team/african-1.jpeg" alt="Image">
                                                 </a>
                                             </div>
                                             <div class="feedback-text">
-                                                <p>Join other users who uses wazo for better wedding experience.</p>
+                                              <p>Join other happy clients who trust Carol Events Mbarara to make their functions memorable.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -69,38 +69,33 @@
                                     <div class="hero-content">
                                         <img src="assets/img/hero/hero-shape-6.png" alt="Image" class="hero-shape-six" data-speed="0.10" data-revert="true">
                                         <img src="assets/img/hero/hero-shape-7.png" alt="Image" class="hero-shape-seven" data-speed="0.10" data-revert="true">
-                                        <span>24/7 Available</span>
-                                        <h1>Make Your Every Moment Very Special</h1>
-                                        <p>Sed ut persiciatis unde omnis iste natus error sit voluptate maccus antium doloremque laudantium totam rem aperiam eaque ipsa quae ab illo inventore.</p>
-                                        <div class="hero-btn">
-                                            <a href="register.php" class="btn style1">Register Now</a>
-                                            <a class="play-video" data-fslightbox href="https://www.youtube.com/watch?v=Yxw2MH1ODW0">
+                                        <span>24/7 Availability Across Western Uganda</span>
+                                                <h1>Every Moment, Beautifully Managed</h1>
+                                                <p>From weddings to private parties, Carol Events Mbarara is here to serve with style, fresh juice, ushering, and bulk messaging—anytime, anywhere.</p>
+                                          <div class="hero-btn">
+                                          <a href="#" class="btn style1">Register Now</a>
+                                                <a class="play-video" href="https://www.tiktok.com/@carol.events.mbra/video/7509221728392875320" target="_blank" rel="noopener noreferrer">
                                                 <span class="video-icon">
                                                     <i class="ri-play-fill"></i>
                                                 </span>
-                                               <span>Watch Video</span>
+                                                <span>Watch Video</span>
                                             </a>
                                         </div>
-                                        <div class="feedback-wrap" >
-                                            <div class="feedback-client-img">
-                                                <a href="contact.php">
-                                                    <img src="assets/img/team/author-2.jpg" alt="Image">
+                                     <div class="feedback-client-img">
+                                     <a href="contact.php">
+                                                    <img src="assets/img/team/african-1.jpeg" alt="Image">
                                                 </a>
                                                 <a href="contact.php">
-                                                    <img src="assets/img/team/author-1.jpg" alt="Image">
+                                                    <img src="assets/img/team/african-1.jpeg" alt="Image">
                                                 </a>
                                                 <a href="contact.php">
-                                                    <img src="assets/img/team/author-4.jpg" alt="Image">
+                                                    <img src="assets/img/team/african-1.jpeg" alt="Image">
                                                 </a>
                                                 <a href="contact.php">
-                                                    <img src="assets/img/team/author-3.jpg" alt="Image">
+                                                    <img src="assets/img/team/african-1.jpeg" alt="Image">
                                                 </a>
-                                            </div>
-                                            <div class="feedback-text">
-                                                <p>Join other users who uses wazo for better wedding experience.</p>
-                                            </div>
-                                        </div>
-                                    </div>
+                                  </div>
+                                </div>
                                 </div>
                                 <div class="col-lg-6 order-lg-2 order-md-1 order-1">
                                     <div class="hero-img-wrap">
@@ -111,61 +106,6 @@
                                         </div>
                                         <div class="hero-img-two">
                                             <img src="assets/img/hero/hero-img-5.png" alt="Image">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="hero-slide-item">
-                        <div class="container">
-                            <div class="row gx-5 align-items-center">
-                                <div class="col-lg-6 order-lg-1 order-md-2 order-2">
-                                    <div class="hero-content">
-                                        <img src="assets/img/hero/hero-shape-6.png" alt="Image" class="hero-shape-six" data-speed="0.10" data-revert="true">
-                                        <img src="assets/img/hero/hero-shape-7.png" alt="Image" class="hero-shape-seven" data-speed="0.10" data-revert="true">
-                                        <span>Best Wedding Planner</span>
-                                        <h1>Best Digital Wedding Planner Is Here</h1>
-                                        <p>Sed ut persiciatis unde omnis iste natus error sit voluptate maccus antium doloremque laudantium totam rem aperiam eaque ipsa quae ab illo inventore.</p>
-                                        <div class="hero-btn">
-                                            <a href="register.php" class="btn style1">Register Now</a>
-                                            <a class="play-video" data-fslightbox href="https://www.youtube.com/watch?v=Yxw2MH1ODW0">
-                                                <span class="video-icon">
-                                                    <i class="ri-play-fill"></i>
-                                                </span>
-                                               <span>Watch Video</span>
-                                            </a>
-                                        </div>
-                                        <div class="feedback-wrap" >
-                                            <div class="feedback-client-img">
-                                                <a href="contact.php">
-                                                    <img src="assets/img/team/author-3.jpg" alt="Image">
-                                                </a>
-                                                <a href="contact.php">
-                                                    <img src="assets/img/team/author-1.jpg" alt="Image">
-                                                </a>
-                                                <a href="contact.php">
-                                                    <img src="assets/img/team/author-2.jpg" alt="Image">
-                                                </a>
-                                                <a href="contact.php">
-                                                    <img src="assets/img/team/author-4.jpg" alt="Image">
-                                                </a>
-                                            </div>
-                                            <div class="feedback-text">
-                                                <p>Join other users who uses wazo for better wedding experience.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-lg-6 order-lg-2 order-md-1 order-1">
-                                    <div class="hero-img-wrap">
-                                        <img src="assets/img/hero/hero-shape-1.png" alt="Image" class="hero-shape-one">
-                                        <img src="assets/img/hero/hero-shape-2.png" alt="Image" class="hero-shape-two moveHorizontal">
-                                        <div class="hero-img-one">
-                                            <img src="assets/img/hero/hero-img-4.png" alt="Image">
-                                        </div>
-                                        <div class="hero-img-two">
-                                            <img src="assets/img/hero/hero-img-6.png" alt="Image">
                                         </div>
                                     </div>
                                 </div>
