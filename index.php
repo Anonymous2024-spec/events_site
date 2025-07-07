@@ -81,10 +81,8 @@
                                                 <span>Watch Video</span>
                                             </a>
                                         </div>
-                                     <div class="feedback-client-img">
-                                     <a href="contact.php">
-                                                    <img src="assets/img/team/african-1.jpeg" alt="Image">
-                                                </a>
+                                        <div class="feedback-wrap" >
+                                            <div class="feedback-client-img">
                                                 <a href="contact.php">
                                                     <img src="assets/img/team/african-1.jpeg" alt="Image">
                                                 </a>
@@ -94,7 +92,14 @@
                                                 <a href="contact.php">
                                                     <img src="assets/img/team/african-1.jpeg" alt="Image">
                                                 </a>
-                                  </div>
+                                                <a href="contact.php">
+                                                    <img src="assets/img/team/african-1.jpeg" alt="Image">
+                                                </a>
+                                            </div>
+                                            <div class="feedback-text">
+                                              <p>Join other happy clients who trust Carol Events Mbarara to make their functions memorable.</p>
+                                            </div>
+                                        </div>
                                 </div>
                                 </div>
                                 <div class="col-lg-6 order-lg-2 order-md-1 order-1">
