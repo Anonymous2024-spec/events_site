@@ -42,8 +42,7 @@
 
         <!-- Page Wrapper End -->
         <div class="page-wrapper">
-
-                
+        
             <!-- Header Section Start -->
             <header class="header-wrap style1">
                 <div class="header-top">

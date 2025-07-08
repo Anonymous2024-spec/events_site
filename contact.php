@@ -31,7 +31,7 @@
                         <div class="row">
                             <div class="col-xl-8 col-lg-7 col-12">
                                 <div class="contact-form">
-                                    <form class="form-wrap" id="contactForm">
+                                    <form class="" id="contactForm">
                                         <div class="row">
                                             <div class="col-md-6">
                                                 <div class="form-group">
@@ -64,22 +64,6 @@
                                                 <div class="form-group v1">
                                                     <textarea name="message" id="message" placeholder="Your Messages.." cols="30" rows="10" required data-error="Please enter your message"></textarea>
                                                     <div class="help-block with-errors"></div>
-                                                </div>
-                                            </div>
-                                            <div class="form-group">
-                                                <div class="form-check checkbox">
-                                                    <input
-                                                        name="gridCheck"
-                                                        value="I agree to the terms and privacy policy."
-                                                        class="form-check-input"
-                                                        type="checkbox"
-                                                        id="gridCheck"
-                                                        required
-                                                    >
-                                                    <label class="form-check-label" for="gridCheck">
-                                                        I agree to the <a class="link style2" href="terms-of-service.php">Terms &amp; Conditions</a> and <a class="link style2" href="privacy-policy.php">Privacy Policy</a>
-                                                    </label>
-                                                    <div class="help-block with-errors gridCheck-error"></div>
                                                 </div>
                                             </div>
                                             <div class="col-md-12">
@@ -132,9 +116,7 @@
 
                 <!-- Map area start -->
                 <div class="comp-map">
-                    <iframe
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.8385385572983!2d144.95358331584498!3d-37.81725074201705!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d4dd5a05d97%3A0x3e64f855a564844d!2s121%20King%20St%2C%20Melbourne%20VIC%203000%2C%20Australia!5e0!3m2!1sen!2sbd!4v1612419490850!5m2!1sen!2sbd">
-                    </iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.5934879334886!2d30.65995647397025!3d-0.6082646352588524!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x19d91b002818a913%3A0xab63f36fc3ccc916!2sSt%20Paul%20Shopping%20Mall!5e0!3m2!1sen!2sug!4v1751981930433!5m2!1sen!2sug" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
                 <!-- Map area end -->
 
@@ -144,10 +126,10 @@
             <!-- Footer Section Start -->
             <?php
            include './includes/footer.php'
-           ?>
+?>
             <!-- Footer Section End -->
         
         </div>
         <?php
-           include './includes/script.php'
-           ?>
+include './includes/script.php'
+?>

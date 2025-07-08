@@ -24,5 +24,4 @@
         <script src="assets/js/main.js"></script>
     </body>
 
-<!-- Mirrored from templates.hibotheme.com/wazo/default/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 11 Jun 2025 12:54:20 GMT -->
 </html>
